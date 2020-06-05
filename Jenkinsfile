@@ -6,7 +6,7 @@ agent any
       changelog '_*jobjob*_'
      }
     steps{
-    echo "helloworld"
+    echo "helloworldss"
    }
   }
  }
