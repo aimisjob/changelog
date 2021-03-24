@@ -3,7 +3,7 @@ agent any
   stages{
    stage('build'){
     when{
-      changelog '_*jobjob_*'
+      changelog '_*jobjob*_'
       
      }
     steps{
