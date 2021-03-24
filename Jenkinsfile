@@ -3,11 +3,11 @@ agent any
   stages{
    stage('build'){
     when{
-      changelog '.*jobjob*.'
+      changelog '.*jobjob.*'
       
      }
     steps{
-    echo "helloworldsAVE"
+    echo "helloworldhear"
    }
   }
  }
