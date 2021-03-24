@@ -7,7 +7,7 @@ agent any
       
      }
     steps{
-    echo "helloworldss"
+    echo "helloworldsAVE"
    }
   }
  }
